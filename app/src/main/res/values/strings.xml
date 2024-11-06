@@ -1,0 +1,3 @@
+<resources>
+    <string name="app_name">Custom TensorFlow Lite Model Inference with Jetpack Compose</string>
+</resources>
